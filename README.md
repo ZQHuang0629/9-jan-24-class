@@ -9,3 +9,4 @@ for 9 jan 2024 class
 - ``` sudo su - ```
 - ``` yum install git -y ```
 
+zhangqin by zq
